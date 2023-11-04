@@ -8,7 +8,7 @@
 ### Descripción:
 Uno de los métodos de integración numérica se denomina **Simpson 1/3**. Ese método 
 establece lo siguiente: 
-$$\int_a^b f(x) \ dx \cong (b - a) \cdot f(a) + 4 \cdot f(\bar{x}) + f(b) \cdot \frac{b - a}{6}$$
+$$\int_a^b f(x) \ dx \cong (b - a) \frac{f(a) + 4 f(\bar{x}) + f(b)}{6}$$
 
 En dónde:
 
