@@ -25,7 +25,7 @@ siguiente:
     - ¿Cuáles son los *parámetros* que recibe la función?
 2. Aproxima el valor de las siguientes integrales definidas usando la función
    *integracion* creada en el paso 1.
-   1. $I = \int_3^5 (-x^2 + 8x - 12) \ dx \cong 7.33$$
+   1. $I = \int_3^5 (-x^2 + 8x - 12) \ dx \cong 7.33$
 
    2. $I = \int_0^2 3x^2 \ dx \cong 8$
 
